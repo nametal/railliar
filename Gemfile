@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rails', '~> 7.2.0'
+gem 'rails', '~> 7.2.3', '>= 7.2.3.1'
 gem 'pg', '~> 1.5'
 gem 'puma', '>= 5.0'
 gem 'importmap-rails'
